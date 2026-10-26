@@ -280,7 +280,6 @@ Built iOS application features in a product team following clean architecture pr
 
 | Recognition | Details |
 |:--|:--|
-| **Merit Scholarship** | 75% academic scholarship — B.Sc. Computer Engineering, Doğuş University |
 | **Enterprise Internships** | Four internships across Logo Yazılım, Mercedes-Benz / HAS Otomotiv, YASA Holding, and FMSS |
 | **Production Deployments** | Two freelance client websites shipped and live — fladv.art and gediklilaw.com |
 | **AI Graduation Project** | Designed and built Podify, an LLM + TTS news-to-podcast platform |
