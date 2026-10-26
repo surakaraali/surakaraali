@@ -100,11 +100,6 @@ exploring:
   - Speech and audio AI — TTS and voice interfaces
   - Developer tooling, CI/CD, and cloud deployment
 
-open_to:
-  - Software Engineer / New-Grad roles
-  - Full-Stack, Frontend & Mobile Engineering
-  - AI Product Engineering
-  - Open-source collaboration
 ```
 
 ---
