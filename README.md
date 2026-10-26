@@ -6,7 +6,7 @@
 
 I'm a **Computer Engineer** from Istanbul who builds software end to end — from the interface a user touches to the pipeline that runs behind it.
 
-My foundation is **software engineering**: clean architecture, readable code, disciplined Git workflows, and code review as a habit rather than a gate. I've shipped in corporate product teams at **Logo Yazılım** and **FMSS Bilişim**, working inside Agile/Scrum sprints on mobile features spanning performance, accessibility, and authentication.
+My foundation is **software engineering**: clean architecture, readable code, disciplined Git workflows, and code review as a habit rather than a gate. 
 
 
 
