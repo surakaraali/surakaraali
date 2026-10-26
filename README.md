@@ -1,7 +1,5 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:8b5cf6&height=230&section=header&text=%C5%9Eura%20Karaali&fontSize=52&fontColor=ffffff&fontAlignY=36&animation=fadeIn&desc=Software%20Engineer%20%E2%80%A2%20Full-Stack%20%26%20Mobile%20%E2%80%A2%20Applied%20AI&descSize=18&descAlignY=56&descAlign=50" width="100%"/>
-
 <a href="https://github.com/surakaraali">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3200&pause=900&color=A78BFA&center=true&vCenter=true&multiline=false&repeat=true&width=720&height=48&lines=Computer+Engineer+%7C+Do%C4%9Fu%C5%9F+University+%2726;Full-Stack+Developer+%E2%80%94+Next.js+%E2%80%A2+React+%E2%80%A2+TypeScript;Mobile+Engineer+%E2%80%94+React+Native+%E2%80%A2+Swift+%E2%80%A2+SwiftUI;Building+AI-powered+products+with+LLMs+%26+TTS;Product-minded.+Clean+code.+Shipped+to+production." alt="Typing SVG"/>
 </a>
