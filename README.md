@@ -1,22 +1,3 @@
-<div align="center">
-
-<a href="https://github.com/surakaraali">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3200&pause=900&color=A78BFA&center=true&vCenter=true&multiline=false&repeat=true&width=720&height=48&lines=Computer+Engineer+%7C+Do%C4%9Fu%C5%9F+University+%2726;Full-Stack+Developer+%E2%80%94+Next.js+%E2%80%A2+React+%E2%80%A2+TypeScript;Mobile+Engineer+%E2%80%94+React+Native+%E2%80%A2+Swift+%E2%80%A2+SwiftUI;Building+AI-powered+products+with+LLMs+%26+TTS;Product-minded.+Clean+code.+Shipped+to+production." alt="Typing SVG"/>
-</a>
-
-<br/>
-
-<img src="https://img.shields.io/badge/B.Sc.-Computer%20Engineering-6366F1?style=for-the-badge&logo=bookstack&logoColor=white"/>
-<img src="https://img.shields.io/badge/Do%C4%9Fu%C5%9F%20University-Class%20of%202026-7C3AED?style=for-the-badge&logo=googlescholar&logoColor=white"/>
-<img src="https://img.shields.io/badge/Merit%20Scholarship-75%25-8B5CF6?style=for-the-badge&logo=starship&logoColor=white"/>
-<img src="https://img.shields.io/badge/Instruction-100%25%20English-A78BFA?style=for-the-badge&logo=googletranslate&logoColor=white"/>
-
-<br/>
-
-<img src="https://img.shields.io/badge/Location-Istanbul%2C%20Turkey-4C1D95?style=for-the-badge&logo=googlemaps&logoColor=white"/>
-
-<br/><br/>
-
 <a href="https://github.com/surakaraali?tab=repositories"><img src="https://img.shields.io/badge/Portfolio-Explore%20Work-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/surakaraali/"><img src="https://img.shields.io/badge/LinkedIn-Connect-6366F1?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="mailto:surakaraali@gmail.com"><img src="https://img.shields.io/badge/Email-surakaraali%40gmail.com-7C3AED?style=for-the-badge&logo=gmail&logoColor=white"/></a>
