@@ -8,8 +8,6 @@ I'm a **Computer Engineer** from Istanbul who builds software end to end — fro
 
 My foundation is **software engineering**: clean architecture, readable code, disciplined Git workflows, and code review as a habit rather than a gate. 
 
-
-
 <br clear="right"/>
 
 ---
