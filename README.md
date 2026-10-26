@@ -8,19 +8,7 @@ I'm a **Computer Engineer** from Istanbul who builds software end to end — fro
 
 My foundation is **software engineering**: clean architecture, readable code, disciplined Git workflows, and code review as a habit rather than a gate. I've shipped in corporate product teams at **Logo Yazılım** and **FMSS Bilişim**, working inside Agile/Scrum sprints on mobile features spanning performance, accessibility, and authentication.
 
-On the **full-stack** side, I build production web applications with **Next.js, React, and TypeScript** — two of them are live client sites today. On mobile, I work with **React Native** and **Swift / SwiftUI**.
 
-In **AI / ML**, I focus on applied systems: integrating **large language models** into real workflows, designing **recommendation and routing logic**, and orchestrating **Text-to-Speech pipelines** — the core of my graduation project, *Podify*.
-
-I approach every project with a **product engineering mindset**: understand the requirement, find the root cause, ship the smallest thing that solves it well, then iterate.
-
-**Open To**
-
-- Software Engineer / New-Grad Engineering roles
-- Full-Stack & Frontend Engineering (Next.js, React, TypeScript)
-- Mobile Engineering (React Native, iOS)
-- AI Product Engineering & LLM-integrated applications
-- Open-source collaboration
 
 <br clear="right"/>
 
