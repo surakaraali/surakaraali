@@ -2,7 +2,7 @@
 
 ## About
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=surakaraali&show_icons=true&hide_border=true&hide_title=true&bg_color=0d1117&text_color=c9d1d9&icon_color=a78bfa&ring_color=8b5cf6&count_private=true&rank_icon=github" width="380"/>
+
 
 I'm a **Computer Engineer** from Istanbul who builds software end to end — from the interface a user touches to the pipeline that runs behind it.
 
