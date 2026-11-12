@@ -103,25 +103,3 @@ exploring:
 ```
 
 ---
-
-## Connect
-
-<div align="center">
-
-<a href="mailto:surakaraali@gmail.com"><img src="https://img.shields.io/badge/Gmail-surakaraali%40gmail.com-7C3AED?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/surakaraali/"><img src="https://img.shields.io/badge/LinkedIn-surakaraali-6366F1?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-
-
-</div>
-
----
-
-<div align="center">
-
-<i>"Great software is the quiet result of clear thinking, careful engineering, and relentless iteration."</i>
-
-<br/><br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8b5cf6,50:302b63,100:0f0c29&height=140&section=footer" width="100%"/>
-
-</div>
