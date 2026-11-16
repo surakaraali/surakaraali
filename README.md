@@ -82,25 +82,3 @@ My foundation is **software engineering**: clean architecture, readable code, di
 </div>
 
 ---
-
-## Current Focus
-
-```yaml
-learning:
-  - Advanced TypeScript patterns & system design fundamentals
-  - LLM application architecture — retrieval, evaluation, guardrails
-  - Mobile performance profiling & accessibility at scale
-
-building:
-  - AI-powered products that pair language models with real user workflows
-  - Production-grade Next.js applications with clean, component-based design
-  - Cross-platform mobile experiences with React Native
-
-exploring:
-  - Agentic AI workflows & multi-step orchestration
-  - Speech and audio AI — TTS and voice interfaces
-  - Developer tooling, CI/CD, and cloud deployment
-
-```
-
----
