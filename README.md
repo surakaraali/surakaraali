@@ -1,4 +1,4 @@
-I'm Şura, a computer engineer in Istanbul. I build mobile apps and websites, write the backends behind them, and I'm just as happy doing business analysis.
+I'm Şura, a computer engineer in Istanbul. I build mobile apps and websites, write the backends behind them, and I'm just as happy doing business analysis. 
 
 I graduated from Doğuş University in 2026. Along the way I did product development internships at **Logo Yazılım** and **FMSS**, and IT internships at **Mercedes-Benz / HAS Otomotiv** and **YASA Holding**.
 
